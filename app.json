@@ -1,0 +1,26 @@
+{
+  "id": "13201a7f-47cc-49ef-a2ca-42be8c535bd7",
+  "name": "AL Translate Tool",
+  "publisher": "Bech-Andersen Consult ApS",
+  "brief": "AL Translate Tool for Dynamics 365 BC on-premise",
+  "description": "Open-Source AL Translate Tool. Source code can be located at https://github.com/peikba/AL-Translate-Tool.",
+  "version": "1.0.0.0",
+  "EULA": "http://ba-consult.dk/downloads/warrenty.txt",
+  "url": "https://github.com/peikba/AL-Translate-Tool",
+  "logo": "",
+    "showMyCode": true,
+  "target": "Cloud",
+  "contextSensitiveHelpUrl": "https://AL_Translate_Tool.com/help/",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 78600,
+      "to": 78700
+    }
+  ],
+    "features": ["TranslationFile"],
+  "runtime": "6.0"  
+}

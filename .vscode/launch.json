@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+      {
+          "type": "al",
+          "request": "launch",
+          "name": "Microsoft cloud sandbox",
+          "server": "https://businesscentral.dynamics.com/10987dd9-2e4b-4a6e-84f0-63b44283a8d4",
+          "serverInstance": "Sandbox",
+          "startupObjectId": 9305,
+          "startupObjectType": "Page",
+          "breakOnError": true,
+          "launchBrowser": true,
+          "enableLongRunningSqlStatements": true,
+          "enableSqlInformationDebugger": true,
+          "schemaUpdateMode": "ForceSync",
+          
+      }
+  ]
+}
