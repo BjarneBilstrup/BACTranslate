@@ -397,7 +397,7 @@
           <source>Translation Target</source>
           <note from="Developer" annotates="general" priority="2" note="" />
           <note from="Xliff Generator" annotates="general" priority="3" note="Table BAC Translation Target - Property Caption" />
-          <target>Oversættelsesmål</target>
+          <target>Oversættelsesmål (oversættelsestekster1)</target>
         </trans-unit>
         <trans-unit id="Table 2707830334 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes">
           <source>Line No.</source>
@@ -583,7 +583,7 @@
           <source>Translation Target</source>
           <note from="Developer" annotates="general" priority="2" note="" />
           <note from="Xliff Generator" annotates="general" priority="3" note="Page BAC Target Language List - Action Translation Target - Property Caption" />
-          <target>Oversættelsesmål</target>
+          <target>Oversættelsesmål (oversættelsestekster)</target>
         </trans-unit>
         <trans-unit id="Page 698160755 - Action 2294305842 - Property 2879900210" size-unit="char" translate="yes">
           <source>Translation Terms</source>
