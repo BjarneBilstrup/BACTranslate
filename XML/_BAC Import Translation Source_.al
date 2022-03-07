@@ -11,7 +11,6 @@ xmlport 78600 "BAC Import Translation Source"
     UseDefaultNamespace = true;
     UseRequestPage = false;
     UseLax = true;
-
     schema
     {
         textelement(xliff)
